@@ -36,7 +36,7 @@ Event Handling for button actions
 
 💡 How to Run
 Clone this repository
-git clone https://github.com/HarshuChauhan/Java-Quiz-Application.git
+git clone (https://github.com/HarshuChauhan/Java-Quiz-Application-)
 Open the folder in any Java IDE (like IntelliJ IDEA or Eclipse)
 Run Login.java to start the application
 
